@@ -1,0 +1,17 @@
+C:\Users\ryanh\source\repos\clockk\clockk\bin\Debug\net6.0-windows\clockk.exe
+C:\Users\ryanh\source\repos\clockk\clockk\bin\Debug\net6.0-windows\clockk.deps.json
+C:\Users\ryanh\source\repos\clockk\clockk\bin\Debug\net6.0-windows\clockk.runtimeconfig.json
+C:\Users\ryanh\source\repos\clockk\clockk\bin\Debug\net6.0-windows\clockk.dll
+C:\Users\ryanh\source\repos\clockk\clockk\bin\Debug\net6.0-windows\clockk.pdb
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.csproj.AssemblyReference.cache
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.Form1.resources
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.csproj.GenerateResource.cache
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.AssemblyInfoInputs.cache
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.AssemblyInfo.cs
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.csproj.CoreCompileInputs.cache
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.dll
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\refint\clockk.dll
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.pdb
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\clockk.genruntimeconfig.cache
+C:\Users\ryanh\source\repos\clockk\clockk\obj\Debug\net6.0-windows\ref\clockk.dll
